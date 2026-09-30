@@ -1,0 +1,2 @@
+语言版本：gcc --version （MinGW-w64 gcc）
+运行命令：gcc main.c -o main && ./main
